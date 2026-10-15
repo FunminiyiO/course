@@ -1,0 +1,11 @@
+[book]
+title = "SchoolRunbook"
+authors = ["SchoolRunbook"]
+language = "en"
+src = "src"
+
+[output.html]
+site-url = "/course/"
+git-repository-url = "https://github.com/SchoolRunbook/course"
+edit-url-template = "https://github.com/SchoolRunbook/course/edit/main/{path}"
+no-section-label = true
