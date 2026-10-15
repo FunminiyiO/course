@@ -9,4 +9,5 @@ site-url = "/course/"
 git-repository-url = "https://github.com/SchoolRunbook/course"
 edit-url-template = "https://github.com/SchoolRunbook/course/edit/main/{path}"
 no-section-label = true
+additional-css = ["custom.css"]
 sidebar-header-nav = false

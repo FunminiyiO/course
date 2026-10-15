@@ -1,8 +1,8 @@
-# Course overview
+# Overview
 
 Welcome to SchoolRunbook.
 
-## Class dates
+## Dates
 
 All classes are on Zoom, Tuesdays 3:00 to 4:30pm ET.
 
