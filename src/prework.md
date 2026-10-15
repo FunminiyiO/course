@@ -35,7 +35,7 @@ Complete the steps in order (finish all required steps before the 'bonus' part o
 **Why:** a Claude Project keeps all your course chats in one place, and its instructions are read at the start of every chat in it. This enables us to give the project instructions once, so you don't have to rewrite them for every chat.
 
 <div class="video-embed">
-  <iframe src="https://www.youtube-nocookie.com/embed/6iQmqVvYNQI" title="Create your Claude Project" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/6iQmqVvYNQI?rel=0" title="Create your Claude Project" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>
 </div>
 
 **Steps**
