@@ -1,3 +1,0 @@
-# Demo Day
-
-*Coming soon.*
