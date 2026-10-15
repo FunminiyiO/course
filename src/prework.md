@@ -7,7 +7,7 @@ Complete the steps in order (finish all required steps before the 'bonus' part o
 1. [Install the Claude desktop app](#1-install-the-claude-desktop-app)
 2. [Create your n8n account](#2-create-your-n8n-account)
 3. [Create your Claude Project](#3-create-your-claude-project)
-4. [Late homework excuse: your first build](#4-late-homework-excuse-your-first-build)
+4. [Build your first project: late homework excuse](#4-build-your-first-project-late-homework-excuse)
 5. [Prepare for the first class](#5-prepare-for-the-first-class)
 
 ## 1. Install the Claude desktop app
@@ -102,7 +102,7 @@ When something breaks, I'll paste the exact error or output. Tell me the likely 
 
 **Done when:** your `SchoolRunbook projects` project has these instructions saved, and Google Drive shows as connected.
 
-## 4. Late homework excuse: your first build
+## 4. Build your first project: late homework excuse
 
 **Why:** this is a practice run of how we'll build in class, on a small project. Claude writes your project guide (Context, Design and Build tabs), and you build the automation one milestone at a time. Along the way you connect Gmail and Google Sheets to n8n.
 
