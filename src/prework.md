@@ -38,7 +38,7 @@ Complete the steps in order (finish all required steps before the 'bonus' part o
   <iframe src="https://www.youtube-nocookie.com/embed/6iQmqVvYNQI?rel=0" title="Create your Claude Project" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>
 </div>
 
-**Steps**
+**Steps:**
 
 1. In the Claude desktop app, open **Projects** and create a new project called `SchoolRunbook projects`.
 2. Open the project's instructions and paste in the text in the box below. Leave `[Links to be added]` as it is; you'll replace it with your first project's link in step 4.
@@ -116,7 +116,7 @@ When something breaks, I'll paste the exact error or output. Tell me the likely 
   <iframe src="https://www.youtube-nocookie.com/embed/tm0qlprflNI?rel=0" title="Build your first project: late homework excuse (part 1)" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>
 </div>
 
-
+**Steps:**
 
 ### Make your sheet
 
@@ -165,10 +165,13 @@ I'm doing a prework exercise for the SchoolRunbook course. Before class, I need 
   <li>Copy the link to your guide, and add it to your SchoolRunbook project instructions in Claude.</li>
 </ol>
 
-### Build it
+### Part 2: Build it
 
-**Demo video:** coming soon
+<div class="video-embed">
+  <iframe src="https://www.youtube-nocookie.com/embed/fsE8ZMiscMA?rel=0" title="Build your first project: late homework excuse (part 2)" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>
+</div>
 
+**Steps:**
 
 1. In the SchoolRunbook n8n workspace, create a new workflow called `Late homework excuse - [your name]`.
 2. Follow the Build tab one milestone at a time.
@@ -181,11 +184,11 @@ I'm doing a prework exercise for the SchoolRunbook course. Before class, I need 
 
 ### Bonus: let AI write the excuse (optional)
 
-**Note: before doing this optional exercise, please ensure you complete step 5 below!**
+**Note: before doing this optional exercise, please ensure you complete step 5 below!** The [step 5 video](#5-prepare-for-the-first-class) demos setting up the filter and then this bonus.
 
-Once your note arrives, try having AI write a fresh excuse every time. Our n8n workspace already has a Claude credential, so there's nothing new to set up. This is a preview of the AI step you'll build for homework after Class 1.
+Once your note is sent, try having AI write a fresh excuse every time. Our n8n workspace already has a Claude credential, so there's nothing new to set up. This is a preview of the AI step you'll build for homework after Class 1.
 
-**Demo video:** coming soon
+**Steps:**
 
 1. In the same chat, send Claude this:
 
@@ -200,9 +203,13 @@ Let's add an AI step. Instead of the fixed note, have Claude write a longer, mor
 
 ## 5. Prepare for the first class
 
-**Why:** during the first class, we'll work on building an automation that processes emails sent to a financial inbox. Shortly before the class, you'll receive approximately 20 emails from "admin@schoolrunbook.com" that include sample invoices, reminders, etc. Please set up the filter below. It will ensure the emails don't go to Spam, stay out of your primary inbox, and have the label the automation needs to process them.
+**Why:** during the first class, we'll build an automation that processes emails sent to a financial inbox. Shortly before the class, you'll receive approximately 20 emails from "admin@schoolrunbook.com" that include sample invoices and more. Follow the steps below to set up a filter to ensure you'll receive and process the emails.
 
-**Demo video:** coming soon
+<div class="video-embed">
+  <iframe src="https://www.youtube-nocookie.com/embed/GiCWr57RZto?rel=0" title="Prepare for the first class: set up the filter, then the bonus" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>
+</div>
+
+**Steps:**
 
 Use Gmail on a computer for these steps; the phone app can't create filters. Sign in with the same Google account you'll use for the course.
 
