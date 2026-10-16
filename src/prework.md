@@ -106,9 +106,17 @@ When something breaks, I'll paste the exact error or output. Tell me the likely 
 
 **Why:** this is a practice run of how we'll build in class, on a small project. Claude writes your project guide (Context, Design and Build tabs), and you build the automation one milestone at a time. Along the way you connect Gmail and Google Sheets to n8n.
 
-**Demo video:** coming soon
+**Important:** use the same Google account you'll use for the course in every step below.
 
-Use the same Google account you'll use for the course in every step below.
+
+### Part 1: Set up the project documents in Claude
+
+
+<div class="video-embed">
+  <iframe src="https://www.youtube-nocookie.com/embed/tm0qlprflNI?rel=0" title="Build your first project: late homework excuse (part 1)" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>
+</div>
+
+
 
 ### Make your sheet
 
@@ -152,12 +160,15 @@ I'm doing a prework exercise for the SchoolRunbook course. Before class, I need 
 
 <ol start="2">
   <li>Claude creates your guide with a Context tab and asks you any questions it has. Answer them.</li>
-  <li>Claude gives you a line with your guide's link. Open your project's instructions, replace <code>[Links to be added]</code> with that line, and save.</li>
   <li>Read the Context tab. Edit it yourself or ask Claude to change anything that's missing or wrong. When it looks right, tell Claude to move on.</li>
   <li>Claude adds a Design tab. Read it, ask Claude about anything that's unclear, and edit it the same way. When the design looks right, tell Claude you're ready to build, and it adds the Build tab.</li>
+  <li>Copy the link to your guide, and add it to your SchoolRunbook project instructions in Claude.</li>
 </ol>
 
 ### Build it
+
+**Demo video:** coming soon
+
 
 1. In the SchoolRunbook n8n workspace, create a new workflow called `Late homework excuse - [your name]`.
 2. Follow the Build tab one milestone at a time.
@@ -169,6 +180,8 @@ I'm doing a prework exercise for the SchoolRunbook course. Before class, I need 
 **Done when:** your guide has Context, Design and Build tabs with every milestone ticked, it's linked in your project instructions, and your note is in your Gmail Sent folder.
 
 ### Bonus: let AI write the excuse (optional)
+
+**Note: before doing this optional exercise, please ensure you complete step 5 below!**
 
 Once your note arrives, try having AI write a fresh excuse every time. Our n8n workspace already has a Claude credential, so there's nothing new to set up. This is a preview of the AI step you'll build for homework after Class 1.
 
