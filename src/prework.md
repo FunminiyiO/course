@@ -12,6 +12,7 @@ Complete the steps in order (finish all required steps before the 'bonus' part o
 3. [Create your Claude Project](#3-create-your-claude-project)
 4. [Build your first project: late homework excuse](#4-build-your-first-project-late-homework-excuse)
 5. [Prepare for the first class](#5-prepare-for-the-first-class)
+6. [Share your availability for office hours](#6-share-your-availability-for-office-hours)
 
 ## 1. Install the Claude desktop app
 
